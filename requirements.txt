@@ -1,0 +1,12 @@
+python-dotenv
+pydantic
+tiktoken
+faiss-cpu
+cohere
+langchain-core
+langchain-text-splitters
+langchain-community
+langchain-openai
+langgraph
+fastapi
+uvicorn

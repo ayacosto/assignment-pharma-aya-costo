@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Environnements et caches Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Inutile a l'execution
+corpus/
+
+# Logs, git, divers
+*.log
+.git/
+.gitignore
+.dockerignore
+Dockerfile
+README.md
